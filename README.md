@@ -19,7 +19,7 @@ The is the Feed Reader Test, from Udacity's fourth project on the Front End Web 
 
 There are 7 different types of tests, every one of them should pass so it has no error. If a test fails Jasmine will point out on the screen.
 
-1. Tt tests to make sure that allFeeds variable has been defined.
+1. Test to make sure that allFeeds variable has been defined.
 2. Loops through each feed in the allFeeds object and ensures it has a URL defined.
 3. Loops through each feed in the allFeeds object and ensures it has a name defined.
 4. Test that ensures the menu element is hidden by default.
